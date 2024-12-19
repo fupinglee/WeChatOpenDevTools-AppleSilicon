@@ -96,6 +96,11 @@ go build
 ![VConsole开启2](images/03.png)
 
 
+
 ## 📄 开源协议
 
 本项目采用 MIT 协议开源，详情请参见 [LICENSE](LICENSE) 文件。
+
+## 📝 致谢
+
+代码参考：[WeChatOpenDevTools-Python-arm](https://github.com/f4l1k/WeChatOpenDevTools-Python-arm) 只是把Python语言改用Go语言重写
